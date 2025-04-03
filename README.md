@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm a sophomore at Northeastern University studying CS and Math! Here are some of my projects!
+### I'm a student at Northeastern University studying CS and Math! Here are some of my projects!
 
 <!--
 **vednaykude/vednaykude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
