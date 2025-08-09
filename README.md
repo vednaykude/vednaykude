@@ -52,5 +52,5 @@ Always eager to build together on:
 - AI-powered automation & infrastructure  
 - Scalable full-stack applications  
 
-📬 Reach me: **ved.naykude@gmail.com**  
+Reach me: **ved.naykude@gmail.com**  
 Connect: [LinkedIn](https://linkedin.com/in/vedn123)
